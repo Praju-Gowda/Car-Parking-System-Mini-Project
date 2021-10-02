@@ -1,7 +1,10 @@
 # Car-Parking-System-Mini-Project-
 
-#College mini project done in team
-
+#College mini project done in team...
+#Linkdin post link: 
+https://www.linkedin.com/posts/prajwal-m-s-449114185_svce-team-work-activity-6834310200078548992-R3YX
+.
+.
 #simulation link: https://www.tinkercad.com/things/kqRPho47gGV-car-parking-system/editel?sharecode=C2JiD5zOVaZCB5998aBx-BOMhQ4Rlivsqs6QcbAjwzw
 
 #snapshot:
